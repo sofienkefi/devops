@@ -1,1 +1,4 @@
-git init:permet de initialiser un repos en local
+cmd 1 : git init : permet de initialiser un repos en local
+cmd 2 : git add --all ou git add : permet d'ajouter les fichiers au staging area(ou index)
+cmd 3 : git status : avoir les mis a jour sur le repos
+cmd 4 : git commit -m"message" : pour envoyer les mises a jour au repos local
